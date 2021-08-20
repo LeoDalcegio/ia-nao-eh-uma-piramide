@@ -2,38 +2,25 @@
 
 ## Regras
 
-1. O seu personagem é verde?
-2. O seu personagem é pequeno?
-3. De uma forma sábia, o seu personagem fala?  
-4. O seu personagem têm orelhas pontudas? 
-5. O seu personagem usa um sabre de luz verde? 
-6. O seu personagem têm mais de 900 anos? 
-7. A força é forte com o seu personagem? 
-8. O seu personagem usa um sabre de luz azul? 
-9. O seu personagem têm pernas?
-10. O seu personagem foi ou faz parte do lado negro da força?
-11. O seu personagem apareceu como criança em algum filme? 
-12. O seu personagem teve algum mentor?
-13. O seu personagem é uma mulher?
-14. O seu personagem usa uma capa?
-15. O seu personagem já usou uma arma a laser?
-16. O seu personagem beijou o seu irmão/irmã?
-17. O seu personagem pilota uma nave?
-18. O seu personagem teve algum pupilo? 
-19. O seu personagem têm um companheiro leal? 
-20. O seu personagem têm muitos pelos? 
-21. O seu personagem perdeu a mão? 
-22. O seu personagem usa um sabre de luz vermelho? 
-23. O seu personagem fez sua primeira aparição na nova trilogia? 
-24. O seu personagem é filho de um protagonista principal? 
-25. O seu personagem é um droid? 
-26. O seu personagem pode voar sem precisar de uma nave? 
+1. O seu personagem é um humano? 
+2. O seu personagem é do sexo feminino?
+3. O seu personagem é do lado negro da força? 
+4. O seu personagem pilota uma nave? 
+5. A força é forte com o seu personagem? 
+
+6. O seu personagem fez sua primeira aparição na nova trilogia? 
+8. O seu personagem usa uma capa?
+9. O seu personagem já usou uma arma a laser?
+9. O seu personagem usa um sabre de luz?
+
+9. O seu personagem apareceu em algum filme tendo uma altura baixa (menor do que 1.20m)?
+
 
 ---
 
 ## Yoda 
 ### - Perguntas:  
-  - **1, 2, 3, 4, 5, 6, 7, 9, 18**
+  - **5**
 
 ## Anakin
 ### - Perguntas:  
